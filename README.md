@@ -3,8 +3,8 @@
 Built Next.js dashboard following the tutorial here: https://nextjs.org/learn/dashboard-app
 
 ### Credentials
-Email: user@nextmail.com
-Password: 123456
+* Email: user@nextmail.com
+* Password: 123456
 
 ### Home page
 ![image](https://github.com/hassan-imran/nextjs-dashboard/assets/43490649/b45cfa94-0daa-47ac-bbd5-582160b7243f)
